@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "lorem-ipsum": "^2.0.8",
+    "puppeteer": "^19.4.0",
+    "weather-js": "^2.0.0"
+  }
+}
